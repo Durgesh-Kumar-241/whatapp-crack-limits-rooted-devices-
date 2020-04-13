@@ -1,0 +1,36 @@
+
+you must have rooted device
+1.install termux from play store
+*run -
+apt install tsu
+
+2.download the following file:
+com.whatsapp_preferences.xml
+3.open termux and run the following commands
+*(go to location where you downloaded above file)
+*   
+tsu
+cd /sdcard/download
+
+*copy downloaded file to..
+com.whatsapp_preferences.xml /data/data/com.whatsapp/shared_prefs
+*
+mv com.whatsapp_preferences.xml /data/data/com.whatsapp/shared_prefs/com.whatsapp_preferences.xml
+
+
+4.restart your phone/(or force close your app )and open again..
+
+congrates ..now you have 
+1.no limit of status video,or sending any media file/documents (pahle 100 mb ka limit tha)
+2.forward a message to many people at once(50,000),
+(pahle 1 ko 1 baar mein bhej sakte the)
+and many more...
+3.upi payment daily limit up to 50,000
+pahle 5000 tha
+4.image of larger size can be sent
+5.many people in a group ,more than 1000
+pahle 257 tha
+
+but..🐍🐍🐍🐍try this at your own risk🐼🐼🐼
+
+
